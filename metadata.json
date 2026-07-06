@@ -1,0 +1,10 @@
+{
+  "name": "Nhận dạng giọng nói & Xác thực người dùng",
+  "description": "Nhận dạng giọng nói, xác thực người thực bằng học sâu, tích hợp mã hóa đầu cuối E2EE và tường lửa bảo mật thông minh giám sát thời gian thực.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
